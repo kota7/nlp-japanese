@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# -*- coding: utf8 -*-
+
+
+source activate nlp
+jupyter notebook --ip 0.0.0.0 --no-browser
+
